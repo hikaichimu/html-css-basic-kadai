@@ -23,6 +23,6 @@ html {
     text-shadow: 2px 2px grey;
 }
 
-#basic P{
+#basic > P {
     font-weight: bold;
 }
